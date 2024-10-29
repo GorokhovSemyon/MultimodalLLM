@@ -1,3 +1,3 @@
 # MultimodalLLM
 
-This repo is devoted to Vision+Text LLM experiment.
+This repo is devoted to Multimodal LLM.
