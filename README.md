@@ -1,3 +1,3 @@
 # MultimodalLLM
 
-This repository is devoted to experiment with Multimodal LLM, what combines visual and text data processing.
+This repo is devoted to experiment with Multimodal LLM, what combines visual and text data processing.
