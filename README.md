@@ -1,3 +1,3 @@
 # MultimodalLLM
 
-This repository is connected to Multimodal LLM, what combines visual and text data processing.
+This repo is connected to Multimodal LLM, what combines visual and text data processing.
